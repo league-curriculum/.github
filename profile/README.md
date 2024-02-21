@@ -1,6 +1,6 @@
 # The LEAGUE Curriculum
 
-This organization is the new home for all of The LEAGU's curiculum and templates for creating new curriculum. 
+This organization is the new home for all of The LEAGUE's curiculum and templates for creating new curriculum. 
 
 <!--
 
